@@ -1,16 +1,13 @@
-
----
+# Practice CSS Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/YheSJQuYYCNJ.png">
 </div>
 
-## CSS
-
 CSS is a language that describes the style of an HTML document. It's used to make web pages look good and work well on different devices. In this skill tree, you'll learn how to use CSS to style your web pages.
 
-|   Index | Name                                              | Level   | Project Link                                                                                           |
-|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Level   | Project Link                                                                                            |
+|---------|---------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
 |      01 | Building a Christmas Wish List Builder in React   | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-christmas-wish-list-builder-in-react)   |
 |      02 | Build a Simple Markdown Editor With Live Preview  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-markdown-editor-with-live-preview)  |
 |      03 | Monty Hall Simulation Web App                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-monty-hall-problem-simulation-web-app)             |
@@ -62,8 +59,9 @@ CSS is a language that describes the style of an HTML document. It's used to mak
 |      49 | Westward Journey to Heavenly West                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-westward-journey-to-heavenly-west)                 |
 |      50 | User Permission Management System with JavaScript | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-permission-management)                             |
 
-### More
+## More
 
-- 🔗 [CSS Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#css)
 - 🔗 [CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
