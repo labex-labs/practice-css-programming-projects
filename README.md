@@ -6,8 +6,8 @@
 
 CSS is a language that describes the style of an HTML document. It's used to make web pages look good and work well on different devices. In this skill tree, you'll learn how to use CSS to style your web pages.
 
-|   Index | Name                                              | Level   | Project Link                                                                                            |
-|---------|---------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Level   | Project Link                                                                                           |
+|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
 |      01 | Building a Christmas Wish List Builder in React   | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-christmas-wish-list-builder-in-react)   |
 |      02 | Build a Simple Markdown Editor With Live Preview  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-markdown-editor-with-live-preview)  |
 |      03 | Monty Hall Simulation Web App                     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-monty-hall-problem-simulation-web-app)             |
