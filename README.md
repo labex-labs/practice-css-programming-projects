@@ -89,6 +89,7 @@ CSS is essential for styling web pages. This Skill Tree presents a systematic ap
 - [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
 - [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
 - [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
+- [MongoDB Programming Projects](https://github.com/labex-labs/practice-mongodb-programming-projects)
 
 
 ## Other Lists
