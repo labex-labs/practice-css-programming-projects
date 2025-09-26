@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/YheSJQuYYCNJ.png">
 </div>
 
-CSS is crucial for styling web pages. This Skill Tree offers a systematic way to learn CSS. Ideal for web development beginners, it provides a clear roadmap to grasp selectors, layout, and responsive design. Hands - on, non - video courses and coding exercises in an interactive CSS playground help you develop practical skills to create visually appealing and responsive websites.
+Learn CSS with this structured Learning Path, ideal for web development beginners. These CSS courses provide a clear roadmap to master selectors, layout, and responsive design. Develop practical skills through hands-on, non-video exercises in an interactive CSS playground to create visually appealing and responsive websites.
 
 ## Exercises
 
