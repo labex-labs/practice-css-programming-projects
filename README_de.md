@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/YheSJQuYYCNJ.png">
 </div>
 
-CSS ist entscheidend für das Styling von Webseiten. Dieser Skill Tree bietet einen systematischen Ansatz zum Erlernen von CSS. Ideal für Anfänger in der Webentwicklung, bietet er einen klaren Fahrplan, um Selektoren, Layout und responsives Design zu verstehen. Praktische, nicht-videobasierte Kurse und Programmierübungen in einem interaktiven CSS-Spielplatz helfen Ihnen, praktische Fähigkeiten zu entwickeln, um ansprechende und responsive Webseiten zu erstellen.
+Lernen Sie CSS mit diesem strukturierten Lernpfad, ideal für Webentwicklungsanfänger. Diese CSS-Kurse bieten eine klare Roadmap, um Selektoren, Layout und responsives Design zu meistern. Entwickeln Sie praktische Fähigkeiten durch praktische, nicht-video-basierte Übungen in einem interaktiven CSS-Spielplatz, um visuell ansprechende und responsive Websites zu erstellen.
 
 ## Übungen
 
